@@ -1,1 +1,1 @@
-# 3D-CNN-and-LSTM-classifcation-
+# 3D-CNN-and-LSTM-classification-
